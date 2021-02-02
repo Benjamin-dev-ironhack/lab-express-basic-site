@@ -1,0 +1,15 @@
+#container {
+    margin: 40px 200px;
+    width: 800px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+img {
+    height: 500px;
+    width: 300px;
+}
+
+a {
+    margin-left: 550px;
+}

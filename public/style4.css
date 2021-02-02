@@ -1,0 +1,21 @@
+#container {
+    margin: 20px 200px;
+    width: 800px;
+    text-align: center;
+}
+
+h1 {
+    color: chocolate;
+}
+
+div {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    padding: 60px 20px;
+    width: 200px;
+    height: 300px;
+    margin-left: 10px;
+}
